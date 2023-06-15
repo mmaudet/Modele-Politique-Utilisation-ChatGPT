@@ -52,7 +52,7 @@ ChatGPT est un outil puissant qui peut vous aider à rationaliser certains proce
 * Demandez un plan pour un article de blog pour vous inspirer (par exemple : "Je dois rédiger un article de blog présentant les technologies améliorant la confidentialité - comment pourrais-je le structurer ?")
 * Demandez des commentaires sur des extraits de code ou de l'aide avec des formules Excel (par exemple : "J'utilise LibreOffice. La colonne A indique le prix total de mon achat est de "10 €" et la colonne B indique le nombre d'avocats proposés à ce tarif ("2"). Comment obtenir le prix par avocat dans la colonne C ?")
 
-## L'engagement de **[Nom de l'org]** envers vous
+## L'engagement de **[Nom de l'org]** envers le salarié
 
 Chez **[Nom de l'org]**, nous accordons une grande importance à la confidentialité et aux droits de propriété intellectuelle de nos salariés. Bien que **[Nom de l'org]** puisse analyser votre utilisation des appareils propriété de **[Nom de l'org]**, nous n'augmenterons notre niveau d'analyse suite à l'utilisation de ChatGPT. À moins qu'il n'y ait des raisons de suspecter une violation de la présente politique, la surveillance par le service informatique se poursuivra conformément à la **[_Politique d'utilisation des outils numériques_]**.
 
