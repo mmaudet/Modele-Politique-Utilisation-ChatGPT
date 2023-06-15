@@ -70,6 +70,6 @@ La présente politique doit être examinée par le **[département pertinent]** 
 | 0.1 | Modèle Original | Michel-Marie MAUDET | 15 juin 2023 |
 | 1.0 | --- | --- | --- |
 
-Version française adapté du [template Template-ChatGPT-policy.md]([url](https://github.com/KairoiAI/Resources/blob/main/Template-ChatGPT-policy.md))
+Version française adapté du template Template-ChatGPT-policy.md disponible ici <https://github.com/KairoiAI/Resources/blob/main/Template-ChatGPT-policy.md>.
 
 Based on Template ChatGPT Use Policy by Kairoi Ltd (2023) / kairoi.uk / CC-BY 4.0
