@@ -24,7 +24,7 @@ Il est bon de prendre en compte les points suivants lors de l'utilisation de Cha
 * Demandez-vous toujours si ChatGPT est le meilleur outil pour la tâche à accomplir (demandez à vos collègues ou à votre responsable si vous n'êtes pas sûr).
 * Chaque fois que vous démarrez un nouveau chat sur ChatGPT, vous repartez "de zéro" dans le sens où il ne peut pas faire référence à d'autres discussions que vous avez eues avec lui.
 * ChatGPT peut fournir des informations inexactes et toutes ses réponses doivent être soigneusement vérifiées pour détecter les erreurs.
-* ChatGPT est mieux utilisé pour recevoir des commentaires sur son propre travail et non pour examiner les efforts des autres.
+* ChatGPT est mieux utilisé pour analyser son propre travail en vue de l'améliorer que pour examiner et critiquer les efforts des autres.
 * Lorsque vous recherchez des commentaires sur du texte ou du code, il est préférable de fournir uniquement des extraits pour minimiser la divulgation d'informations.
 * Si vous ne souhaitez pas qu'une information soit dans le domaine public, alors ne la saisissez pas dans ChatGPT !
 
@@ -70,6 +70,6 @@ La présente politique doit être examinée par le **[département pertinent]** 
 | 0.1 | Modèle Original | Michel-Marie MAUDET | 15 juin 2023 |
 | 1.0 | --- | --- | --- |
 
-Version française adaptée du template Template-ChatGPT-policy.md disponible ici <https://github.com/KairoiAI/Resources/blob/main/Template-ChatGPT-policy.md>.
+Version française adapté du template Template-ChatGPT-policy.md disponible ici <https://github.com/KairoiAI/Resources/blob/main/Template-ChatGPT-policy.md>.
 
 Based on Template ChatGPT Use Policy by Kairoi Ltd (2023) / kairoi.uk / CC-BY 4.0
